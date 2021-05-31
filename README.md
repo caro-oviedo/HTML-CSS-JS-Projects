@@ -2,4 +2,4 @@
 My journey to becoming a Web Designer starts here. 
 
 ## 1. Sheep Counter 
-(Because Sheeps are cool)
+(Because Sheep are cool)
