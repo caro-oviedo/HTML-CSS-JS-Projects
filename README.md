@@ -3,7 +3,7 @@
 
 ## [1. Slalom Tricks](https://github.com/caro-oviedo/slalom)
 
-<img src="img/slalom1.png" width=200px><img src="img/slalom3.png" width=400px><img src="img/slalom2.png" width=300px>
+<img src="img/slalom1.png" width=200px><img src="img/slalom3.png" width=200px><img src="img/slalom2.png" width=200px>
 
  
 ## [2. Sheep Counter](https://github.com/caro-oviedo/SheepCounter)
