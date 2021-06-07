@@ -12,7 +12,7 @@
 
 
 
-## [2. Sheep Counter](https://github.com/caro-oviedo/SheepCounter)
+## [3. Sheep Counter](https://github.com/caro-oviedo/SheepCounter)
 (Because Sheep are cool)
 
 <img src="img/sheepCounter.png" width=700px height=auto>
