@@ -8,7 +8,7 @@
 
 ## [2. BlackJack](https://caro-oviedo.github.io/blackJack/)
 
-<img src="img/sheepCounter.png" width=700px height=auto>
+<img src="blackjack.png" width=500px height=auto>
 
 
 
