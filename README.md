@@ -1,9 +1,10 @@
 # HTML-CSS-JS-BeginnerProjects
 
 ## [1. Responsive Blog]()
-(Responsive Web Design. Html / Css)
+(Responsive Web Design. Html / Css) 
+
 <img src="img/respon3.jpg" width="200px" heigth= "auto">
-<img src="img/respon2.png" width="500px" heigth= "auto">
+<img src="img/respon2.png" width="600px" heigth= "auto">
 
 
 
