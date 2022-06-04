@@ -13,7 +13,7 @@
 
 <img src="blackjack.png" width=500px height=auto>
 
-## [SearchBox](https://github.com/caro-oviedo/searchbox-Js/tree/main)
+## [SearchBox] JS (https://github.com/caro-oviedo/searchbox-Js/tree/main)
 <img src="img/searchBox.png" width=500px height=auto>
 
 ## [Slalom Tricks](https://github.com/caro-oviedo/slalom)
