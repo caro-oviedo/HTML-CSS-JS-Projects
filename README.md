@@ -13,8 +13,11 @@
 
 <img src="blackjack.png" width=500px height=auto>
 
-## [SearchBox] JS (https://github.com/caro-oviedo/searchbox-Js/tree/main)
+## [SearchBox JS](https://github.com/caro-oviedo/searchbox-Js/tree/main)
 <img src="img/searchBox.png" width=500px height=auto>
+
+## [Modal Js](https://github.com/caro-oviedo/modal-js-css)
+<img src="img/modalImg.png" width=500px height=auto>
 
 ## [Slalom Tricks](https://github.com/caro-oviedo/slalom)
 (Responsive Web Design. Html / Css )
