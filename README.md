@@ -1,5 +1,10 @@
 # HTML-CSS-JS-BeginnerProjects
 
+## [Carousel JS- CSS](https://github.com/caro-oviedo/carousel-js-css)
+https://caro-oviedo.github.io/carousel-js-css/
+<a href="https://caro-oviedo.github.io/carousel-js-css/"> <img src="img/carousel.png"> </a>
+
+
 ## [Responsive Blog](https://caro-oviedo.github.io/Responsive-Blog/)
 (Responsive Web Design. Html / Css) 
 
