@@ -1,4 +1,8 @@
+
 # HTML-CSS-JS-BeginnerProjects
+
+## [Figma Hero Page](https://github.com/caro-oviedo/figma-project-hero-page)
+<a href="https://caro-oviedo.github.io/figma-project-hero-page/"><img src="img/figmahero.png">
 
 ## [Carousel JS- CSS](https://github.com/caro-oviedo/carousel-js-css)
 https://caro-oviedo.github.io/carousel-js-css/
