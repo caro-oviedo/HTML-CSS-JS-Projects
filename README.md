@@ -1,5 +1,9 @@
 
+
 # HTML-CSS-JS-BeginnerProjects
+
+## [Dice Game](https://github.com/caro-oviedo/DiceGame)
+<a href="https://github.com/caro-oviedo/DiceGame"> <img src="img/diceGame.png">
 
 ## [Figma Hero Page](https://github.com/caro-oviedo/figma-project-hero-page)
 <a href="https://caro-oviedo.github.io/figma-project-hero-page/"><img src="img/figmahero.png">
