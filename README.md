@@ -7,7 +7,7 @@
 
 ## [CoworkingSite](https://github.com/caro-oviedo/coworkingSpaceSite/tree/master)
 https://caro-oviedo.github.io/coworkingSpaceSite/
-<a href="https://caro-oviedo.github.io/coworkingSpaceSite/"> <img src="img/coworkingScrnSht.png"> </a>
+<a href="https://caro-oviedo.github.io/coworkingSpaceSite"> <img src="img/CoworkingScrnSht.png"> </a>
 
 ## [Dice Game](https://github.com/caro-oviedo/DiceGame)
 <a href="https://github.com/caro-oviedo/DiceGame"> <img src="img/diceGame.png" width="500px" height="auto"></a>
