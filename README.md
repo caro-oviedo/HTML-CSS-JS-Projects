@@ -2,11 +2,15 @@
 
 # HTML-CSS-JS-BeginnerProjects
 
-## [Dice Game](https://github.com/caro-oviedo/DiceGame)
-<a href="https://github.com/caro-oviedo/DiceGame"> <img src="img/diceGame.png" width="500px" height="auto"></a>
-
 ## [Figma Hero Page](https://github.com/caro-oviedo/figma-project-hero-page)
 <a href="https://caro-oviedo.github.io/figma-project-hero-page/"><img src="img/figmahero.png">
+
+## [CoworkingSite](https://github.com/caro-oviedo/coworkingSpaceSite/tree/master)
+https://caro-oviedo.github.io/coworkingSpaceSite/
+<a href="https://caro-oviedo.github.io/coworkingSpaceSite/"> <img src="img/coworkingScrnSht.png"> </a>
+
+## [Dice Game](https://github.com/caro-oviedo/DiceGame)
+<a href="https://github.com/caro-oviedo/DiceGame"> <img src="img/diceGame.png" width="500px" height="auto"></a>
 
 ## [Carousel JS- CSS](https://github.com/caro-oviedo/carousel-js-css)
 https://caro-oviedo.github.io/carousel-js-css/
