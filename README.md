@@ -23,7 +23,10 @@ https://caro-oviedo.github.io/carousel-js-css/
 <img src="img/respon3.jpg" width="200px" heigth= "auto">
 <img src="img/respon2.png" width="600px" heigth= "auto">
 
-
+## [FrontEnd Mentor Challenge Social Proof Section](https://github.com/caro-oviedo/Social_Proof_Section_Challenge/tree/main)
+Html & Css
+<img src="img/social_proof1.jpg" width=30%>
+<img src="img/social_proof2.jpg" width=20%>
 
 ## [BlackJack](https://caro-oviedo.github.io/blackJack/)
 (Javascript)
