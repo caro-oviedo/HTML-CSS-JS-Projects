@@ -25,8 +25,8 @@ https://caro-oviedo.github.io/carousel-js-css/
 
 ## [FrontEnd Mentor Challenge Social Proof Section](https://github.com/caro-oviedo/Social_Proof_Section_Challenge/tree/main)
 Html & Css
-<img src="img/social_proof1.jpg" width=30%>
-<img src="img/social_proof2.jpg" width=20%>
+<img src="img/social_proof1.jpg" width=40%>
+<img src="img/social_proof2.jpg" width=10%>
 
 ## [BlackJack](https://caro-oviedo.github.io/blackJack/)
 (Javascript)
