@@ -30,7 +30,7 @@ Html & Css
 
 ## [Cookie Consent](https://github.com/caro-oviedo/cookie-Consent/tree/main)
 Scrimba Challenge. Html, Css, Js
-<img src="img/cookieConsent1.png" width=50%>
+<img src="img/cookieConsent1.png" width=60%>
 
 ## [BlackJack](https://caro-oviedo.github.io/blackJack/)
 (Javascript)
