@@ -9,6 +9,10 @@
 https://caro-oviedo.github.io/coworkingSpaceSite/
 <a href="https://caro-oviedo.github.io/coworkingSpaceSite"> <img src="img/CoworkingScrnSht.png"> </a>
 
+## [Cookie Consent](https://github.com/caro-oviedo/cookie-Consent/tree/main)
+Scrimba Challenge. Html, Css, Js
+<img src="img/cookieConsent1.png" width=60%>
+
 ## [Dice Game](https://github.com/caro-oviedo/DiceGame)
 <a href="https://github.com/caro-oviedo/DiceGame"> <img src="img/diceGame.png" width="500px" height="auto"></a>
 
@@ -28,9 +32,7 @@ Html & Css
 <img src="img/social_proof1.jpg" width=40%>
 <img src="img/social_proof2.jpg" width=10%>
 
-## [Cookie Consent](https://github.com/caro-oviedo/cookie-Consent/tree/main)
-Scrimba Challenge. Html, Css, Js
-<img src="img/cookieConsent1.png" width=60%>
+
 
 ## [BlackJack](https://caro-oviedo.github.io/blackJack/)
 (Javascript)
