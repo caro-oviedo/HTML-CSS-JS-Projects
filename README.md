@@ -4,9 +4,9 @@
 
 ## [Meme Picker](https://github.com/caro-oviedo/Meme-Picker-JS-Css)
 <img src="img/memePicker1.png" width=40%>
-<img src="img/memePicker2.png" width=30%>
-<img src="img/memePicker3.png" width=30%>
-<img src="img/memePicker4.png" width=30%>
+<img src="img/memePicker2.png" width=20%>
+<img src="img/memePicker3.png" width=20%>
+<img src="img/memePicker4.png" width=20%>
 
 ## [Figma Hero Page](https://github.com/caro-oviedo/figma-project-hero-page)
 <a href="https://caro-oviedo.github.io/figma-project-hero-page/"><img src="img/figmahero.png">
