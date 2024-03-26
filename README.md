@@ -3,7 +3,7 @@
 # HTML-CSS-JS-Projects
 
 
-## [Twitter Clone](https://github.com/caro-oviedo/Twitter-Clone/tree/main)]
+## [Twitter Clone](https://github.com/caro-oviedo/Twitter-Clone/tree/main)
 Scrimba Project 
 <img src="img/twitterclone.png" width=40%>
 
