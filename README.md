@@ -2,6 +2,11 @@
 
 # HTML-CSS-JS-Projects
 
+
+## [Twitter Clone](https://github.com/caro-oviedo/Twitter-Clone/tree/main)]
+Scrimba Project 
+<img src="img/twitterclone.png" width=40%>
+
 ## [Meme Picker](https://github.com/caro-oviedo/Meme-Picker-JS-Css)
 <img src="img/memePicker1.png" width=30%>
 <img src="img/memePicker2.png" width=30%>
