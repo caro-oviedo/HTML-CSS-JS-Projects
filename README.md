@@ -7,6 +7,9 @@
 Scrimba Project 
 <img src="img/twitterclone.png" width=40%>
 
+## [Javascrip Misc Project](https://github.com/caro-oviedo/JS-Misc)
+.map(), .reduce(), destructuring, import/export 
+
 ## [Add-To-Cart Web App | Firebase | Netlify](https://github.com/caro-oviedo/add-to-cart-firebase/blob/main/README.md)
 
 <img src ="img/addToCart.png" width=40%>
