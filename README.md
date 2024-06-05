@@ -10,6 +10,9 @@ Scrimba Project
 ## [Javascrip Misc Project](https://github.com/caro-oviedo/JS-Misc)
 .map(), .reduce(), destructuring, import/export 
 
+##[Basic responsive Website](https://github.com/caro-oviedo/basicRespoonsiveSite/tree/main)
+<img src="img/basicRS.png" width=40%>
+
 ## [Add-To-Cart Web App | Firebase | Netlify](https://github.com/caro-oviedo/add-to-cart-firebase/blob/main/README.md)
 
 <img src ="img/addToCart.png" width=40%>
